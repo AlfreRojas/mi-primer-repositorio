@@ -10,5 +10,6 @@ package miprimerproyectogit;
  * @author Alumno
  */
 public class Prueba {
+    int prueba;
     
 }
